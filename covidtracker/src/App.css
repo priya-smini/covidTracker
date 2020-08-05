@@ -1,0 +1,10 @@
+* {
+  margin: 0; /*To get rid-off the imagnary margin which go against our styling*/
+}
+
+.app__header {
+  display: flex; /*By default it pushes everything into a row*/
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
