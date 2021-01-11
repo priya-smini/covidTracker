@@ -4,7 +4,7 @@
 
 .app__header {
   display: flex; /*By default it pushes everything into a row*/
-  margin-bottom: 20px;
+  margin-bottom: 20px; /* margin adds space outside the element, while padding adds space inside the element*/
   align-items: center;
   justify-content: space-between;
 }
