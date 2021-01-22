@@ -1,0 +1,9 @@
+[core]
+    editor = code
+
+[user]
+    name = priya-smini
+    email = priyasminisahoo@gmail.com
+
+[credential]
+    useHttpPath = true
